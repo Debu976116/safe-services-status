@@ -4,18 +4,20 @@
     "url": "https://gnosis-gateway.metaapesgame.com/health/",
     "icon": "https://favicons.githubusercontent.com/gnosis-gateway.metaapesgame.com",
     "slug": "safe-client-gateway",
-    "status": "up",
-    "uptime": "100.00%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
-    "time": 1033,
-    "timeDay": 1033,
-    "timeWeek": 1033,
-    "timeMonth": 1033,
-    "timeYear": 1033,
-    "dailyMinutesDown": {}
+    "status": "down",
+    "uptime": "99.96%",
+    "uptimeDay": "99.96%",
+    "uptimeWeek": "99.96%",
+    "uptimeMonth": "99.96%",
+    "uptimeYear": "99.96%",
+    "time": 1037,
+    "timeDay": 1037,
+    "timeWeek": 1037,
+    "timeMonth": 1037,
+    "timeYear": 1037,
+    "dailyMinutesDown": {
+      "2022-08-29": 0
+    }
   },
   {
     "name": "Safe Tx Service (APE Mainnet)",
